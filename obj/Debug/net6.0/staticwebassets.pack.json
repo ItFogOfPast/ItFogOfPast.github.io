@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "O:\\Visual Studio projects\\PlazmaBurstMMO\\PlazmaBurstMMO\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PlazmaBurstMMO.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PlazmaBurstMMO.bundle.scp.css"
+    },
+    {
+      "Id": "O:\\Visual Studio projects\\PlazmaBurstMMO\\PlazmaBurstMMO\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PlazmaBurstMMO.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PlazmaBurstMMO.props",
+      "PackagePath": "build\\PlazmaBurstMMO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PlazmaBurstMMO.props",
+      "PackagePath": "buildMultiTargeting\\PlazmaBurstMMO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PlazmaBurstMMO.props",
+      "PackagePath": "buildTransitive\\PlazmaBurstMMO.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
